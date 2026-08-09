@@ -8,11 +8,11 @@ td {
     border: 1px solid black;
 }
 
-#table-1 td:nth-child(2) {
+#t12 {
     text-align: center;
 }
 
-#table-1 td:nth-child(3) {
+#t13{
     text-align: right;
 }
 
@@ -32,7 +32,7 @@ td {
     border-collapse: collapse;
 }
 
-#table-3 tr:first-child {
+#table-3 tr:first-chil {
     background-color: green;
 }
 
