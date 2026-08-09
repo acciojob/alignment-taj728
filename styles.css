@@ -36,3 +36,7 @@ td {
 #table-3 tr:last-child {
     background-color:blue;
 }
+.middle{
+	padding:1px;
+	border-spacing:1px;
+}
