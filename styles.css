@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+/*TABLE 1  */
+.table-1{
+	width:100%;
+	border-collapse:collapse;
+}
+td{
+	border:1px solid black;
+}
+.table-1 td:nth-child(2){
+	text-align:center;
+}
+
+.table-1 td:nth-child(3){
+	text-align:right;
+}
+/* Table2 */
+.t21{
+	row-span:6;
+}
+.table-2{
+	border-collapse:collapse;
+	width:100%;
+	height:200px;
+}
+/*Table-3  */
+.table-3{
+	width:100%;
+	height:200px;
+	border-collapse:collapse;
+}
+.table-3 tr:first-child {
+    background-color: green;
+}
+
+.table-3 tr:last-child {
+    background-color: red;
+}
+
+
+/* TABLE-3 */
+
+
